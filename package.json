@@ -1,6 +1,6 @@
 {
-  "name": "import-js",
-  "version": "3.2.0",
+  "name": "api-import-js",
+  "version": "1.0.0",
   "description": "Simplifies importing JavaScript modules",
   "bin": {
     "importjs": "./bin/importjs.js",
